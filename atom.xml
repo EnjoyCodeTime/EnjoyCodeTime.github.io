@@ -309,9 +309,9 @@ t2 &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34
         <updated>2020-04-12T12:46:25.000Z</updated>
     </entry>
     <entry>
-        <id>https://enjoycodetime.github.io/2020/04/12/Procedural-life/week-1/</id>
+        <id>https://enjoycodetime.github.io/2020/04/12/Reading-notes/week-1/</id>
         <title>第1周 计算</title>
-        <link rel="alternate" href="https://enjoycodetime.github.io/2020/04/12/Procedural-life/week-1/"/>
+        <link rel="alternate" href="https://enjoycodetime.github.io/2020/04/12/Reading-notes/week-1/"/>
         <content type="html">&lt;p&gt;:::note info&lt;br&gt;
 以下为个人学习笔记和习题整理课程：零基础学Java语言-浙江大学-翁恺 @ 中国大学MOOC&lt;br&gt;
 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuaWNvdXJzZTE2My5vcmcvY291cnNlL1pKVS0xMDAxNTQxMDAx&#34;&gt;https://www.icourse163.org/course/ZJU-1001541001&lt;/span&gt;&lt;br&gt;
@@ -571,7 +571,7 @@ t2 &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34
 &lt;li&gt;本文引用自shoka主题： &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUvY29tcHV0ZXItc2NpZW5jZS9qYXZhL2NvdXJzZS0xL3dlZWstMS8=&#34;&gt;https://shoka.lostyu.me/computer-science/java/course-1/week-1/&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
-        <category term="程序人生" scheme="https://enjoycodetime.github.io/categories/Procedural-life/" />
+        <category term="读书笔记" scheme="https://enjoycodetime.github.io/categories/Reading-notes/" />
         <updated>2020-04-12T12:46:25.000Z</updated>
     </entry>
     <entry>
@@ -841,9 +841,9 @@ t2 &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34
         <updated>2020-04-12T12:46:25.000Z</updated>
     </entry>
     <entry>
-        <id>https://enjoycodetime.github.io/2020/04/12/Reading-notes/week-1/</id>
+        <id>https://enjoycodetime.github.io/2020/04/12/Procedural-life/week-1/</id>
         <title>第1周 计算</title>
-        <link rel="alternate" href="https://enjoycodetime.github.io/2020/04/12/Reading-notes/week-1/"/>
+        <link rel="alternate" href="https://enjoycodetime.github.io/2020/04/12/Procedural-life/week-1/"/>
         <content type="html">&lt;p&gt;:::note info&lt;br&gt;
 以下为个人学习笔记和习题整理课程：零基础学Java语言-浙江大学-翁恺 @ 中国大学MOOC&lt;br&gt;
 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuaWNvdXJzZTE2My5vcmcvY291cnNlL1pKVS0xMDAxNTQxMDAx&#34;&gt;https://www.icourse163.org/course/ZJU-1001541001&lt;/span&gt;&lt;br&gt;
@@ -1103,7 +1103,7 @@ t2 &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34
 &lt;li&gt;本文引用自shoka主题： &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUvY29tcHV0ZXItc2NpZW5jZS9qYXZhL2NvdXJzZS0xL3dlZWstMS8=&#34;&gt;https://shoka.lostyu.me/computer-science/java/course-1/week-1/&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
-        <category term="读书笔记" scheme="https://enjoycodetime.github.io/categories/Reading-notes/" />
+        <category term="程序人生" scheme="https://enjoycodetime.github.io/categories/Procedural-life/" />
         <updated>2020-04-12T12:46:25.000Z</updated>
     </entry>
 </feed>
